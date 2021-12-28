@@ -1,0 +1,6 @@
+##conectando celular via wifi
+
+##acessar pasta sdk: cd C:\Users\cisra\AppData\Local\Android\Sdk
+##Verificar o ip do celular
+##digitar no cmd: adb tcpip 5555
+##digitar no cmd: adb connect 10.0.0.196:5555
