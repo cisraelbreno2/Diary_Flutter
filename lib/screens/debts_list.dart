@@ -14,7 +14,6 @@ class ListDebts extends StatefulWidget {
 
 class listDebtsState extends State<ListDebts>{
 
-  var teste = null;
   @override
   Widget build(BuildContext context) {
     return Scaffold(
